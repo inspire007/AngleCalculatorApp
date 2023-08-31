@@ -1,0 +1,9 @@
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\bin\Debug\AngleCalc.exe
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\bin\Debug\AngleCalc.pdb
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.Form1.resources
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.Properties.Resources.resources
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.csproj.GenerateResource.Cache
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.exe
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.pdb
+C:\Users\SUMAN\Documents\VisualStudioTest\AngleCalc\AngleCalc\AngleCalc\obj\Debug\AngleCalc.ImageViewer.resources
